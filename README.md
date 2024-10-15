@@ -16,5 +16,3 @@ You can view the website online or clone this repository to make modifications.
 - CSS
 - JavaScript
 
-## License
-[MIT License](LICENSE)
